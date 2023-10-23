@@ -1,0 +1,47 @@
+Asignatura    : Computación Móvil
+Unidad        : 3
+Motivo        : Entrega trabajo número 3
+Docente       : Rene Alejandro Galarce
+Sección       : eICFE1119-07
+----------------------------------------------------------------------------------
+Se utiliza como base para desarrollo material ejemplo_clase07_final.rar provisto por 
+docente.
+Se intervienen los siguientes módulos:
+auth_background_c1.dart
+* Burbujas random en tamaño, forma y posición.
+* Altura se dejo al 98% para dejar un bottom que muestre color claro de fondo
+  para apariencia de profundidad.
+
+login_screen.dart
+* Button ingreso en distinto color (azul) al de registro.
+* Mensaje para pasar de login a register se agraga palabra "acá".
+
+Register_user_screen.dart
+* Mensaje para pasar de login a register palabra "acá".
+
+edit_product_screen.dart
+* Se agrega a la izquierda FloatingActionButton para el carrito de compras.
+* En clase _ProductForm se agrega campo en el form para ingresar url de fotografia
+  para no usar "Sem Imagem".
+* La flecha de volver de dejo en azul para que sea visible.
+* El card de las imagenes de disminuyo altura para ver al menos dos imagenes en pantalla.
+
+Funcional    : Registro y login
+               Agregar, editar, eliminar productos.
+No funcional : agregar y quitar productos del carrito de compras
+
+Aprovecho la oportunidad de agradecer todo el material y vuestra dedicación en 
+transmitir sus conocimientos y experiencia incluso sacrificando su tiempo personal
+y que lamentablemente no logre aprovechar como lo esperaba, esto producto de la 
+diferencia que hay respecto a otros lenguajes, dado que debo reconocer me resulto
+de mucha mayor dificultad que lo aprendido en otros semestres. 
+De todas formas me quedo con el desafío de tratar en profundizar para mejorar en los
+puntos que me superaron.
+
+Gracias nuevamente.
+
+Atte
+Juan Alberto González
+
+
+ 
